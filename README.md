@@ -1,2 +1,2 @@
 # Projeto-HTML-UNES
-Projeto construido apenas com HTML como teste
+O projeto foi construído utilizando tabelas para estruturar o layout do site. Embora essa abordagem tenha sido adotada devido ao uso exclusivo de HTML, é importante destacar que não é considerada a prática mais recomendada para construção de layouts modernos. Idealmente, estruturas de layout devem ser criadas com o uso de CSS, o que oferece maior flexibilidade, responsividade e acessibilidade ao site. Contudo, para atender aos requisitos e limitações deste projeto específico, a opção por tabelas foi uma solução viável.
